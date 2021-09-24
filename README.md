@@ -8,7 +8,7 @@ The codes in this repository were mainly used for research with collaborators.
 * [ml.pynb]() (Created and run by Google Colab)
 
 ### ii) Required libraries
-#### cpp
+#### C++
 #### Python
 >* numpy
 >* pandas
