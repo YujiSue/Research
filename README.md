@@ -8,9 +8,14 @@ The codes in this repository were mainly used for research with collaborators.
 * [ml.pynb]() (Created and run by Google Colab)
 
 ### ii) Required libraries
+1. cpp
 
 
-
+2. Python
+* numpy
+* pandas
+* scikit-learn
+* umap
 
 ### iii) How to use
 
