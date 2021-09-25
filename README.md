@@ -3,7 +3,7 @@
 The codes in this repository were mainly used for research with collaborators.
 
 ## 1. For ChIP-seq analysis
-### i) Main codes.
+### i) Main codes
 * [analyze.cpp]() (written in C++)
 * [analyze.pynb]() (Created and run by Google Colab)
 
