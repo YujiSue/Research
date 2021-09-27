@@ -24,5 +24,4 @@ If you have a google account, please login and import the ipynb file. Then, plea
 You can learn how to use the google colab on the [official web site](https://colab.research.google.com/notebooks/welcome.ipynb).  
 Otherwise, you can also use the programs as [Jupyter](https://jupyter.org/) file. Please install the required libraries listed above and run as normal Jupyter file.
 
-### iv) Reference
 
