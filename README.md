@@ -19,12 +19,12 @@ The codes in this repository were mainly used for research with collaborators.
 * The C++ code analyze.cpp is required to be compile before running.  
 
 > For Mac users  
-> Please install [XCode](https://developer.apple.com/jp/xcode/) (Command line toolkit) to compile.  
+> Please install [XCode](https://developer.apple.com/download/) (Command line toolkit) to compile.  
 > For Unix/Linux users  
 > Please install GCC (g++) or [Clang](https://clang.llvm.org/) to compile.  
 
 > For windows users  
-Please install [VisualStudio](https://visualstudio.microsoft.com/ja/downloads/) to cpmpile and run.  
+Please install [VisualStudio](https://visualstudio.microsoft.com/downloads/) to cpmpile and run.  
 Sorry, but I have not checked if it works well with MinGW.
 
 * The notebook [analyze.ipynb]() is able to be opened and run on Google Colab.  
