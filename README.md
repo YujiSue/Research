@@ -8,8 +8,7 @@ The codes in this repository were mainly used for research with collaborators.
 * [analyze.ipynb]() (Created by Google Colab)
 
 ### ii) Required libraries
-#### C++
-#### Python
+#### For Python code
 >* numpy
 >* pandas
 >* matplotlib
@@ -17,7 +16,16 @@ The codes in this repository were mainly used for research with collaborators.
 >* umap
 
 ### iii) How to use
-* analyze.cpp
+* The C++ code analyze.cpp is required to be compile before running.  
+
+> For Mac users  
+> Please install [XCode](https://developer.apple.com/jp/xcode/) (Command line toolkit) to compile. 
+> For Unix/Linux users  
+> Please install GCC (g++) or [Clang](https://clang.llvm.org/) to compile.  
+
+> For windows users  
+Please install [VisualStudio](https://visualstudio.microsoft.com/ja/downloads/) to cpmpile and run.  
+Sorry, but I have not checked if it works well with MinGW.
 
 * The notebook [analyze.ipynb]() is able to be opened on Google Colab.  
 If you have a google account, please login and import the ipynb file. Then, please run the programs according to the guidance.  
