@@ -19,7 +19,7 @@ The codes in this repository were mainly used for research with collaborators.
 * The C++ code analyze.cpp is required to be compile before running.  
 
 > For Mac users  
-> Please install [XCode](https://developer.apple.com/jp/xcode/) (Command line toolkit) to compile. 
+> Please install [XCode](https://developer.apple.com/jp/xcode/) (Command line toolkit) to compile.  
 > For Unix/Linux users  
 > Please install GCC (g++) or [Clang](https://clang.llvm.org/) to compile.  
 
