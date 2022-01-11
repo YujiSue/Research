@@ -2,10 +2,14 @@
 
 The codes in this repository were mainly used for research with collaborators.
 
-## 1. For ChIP-seq analysis
+## 1. Variant detection from whole genome
+
+
+
+## 2. For ChIP-seq analysis
 ### i) Main codes
-* [analyze.cpp]() (Written in C++)
-* [analyze.ipynb]() (Created by Google Colab)
+* [chip_analyze.cpp]() (Written in C++)
+* [chip_analyze.ipynb]() (Google Colab notebook)
 
 ### ii) Required libraries
 #### For Python code
