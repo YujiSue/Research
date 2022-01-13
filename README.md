@@ -1,8 +1,8 @@
-# Codes for research use
-Click [here]() for the Japanese version.
-## For NGS Data analysis
+# Codes used in my research
+Click [here](https://github.com/YujiSue/Research/blob/main/README_J.md) for the Japanese version.
+## For NGS Data Analysis
 ### 1. General Analysis
-Pipeline scripts to analyze are available from each link.
+Pipeline scripts.
 1. [VariantCall]()
 2. [RNA-seq]()
 3. [ChIP-seq]()
@@ -15,7 +15,7 @@ Information about the machine on which the analysis was performed, how the envir
 * [Zhou Q, Li H, Li H, Nakagawa A, Lin JL, Lee ES, Harry BL, Skeen-Gaar RR, <b><u>Suehiro Y</u></b>, William D, Mitani S, Yuan HS, Kang BH, Xue D. Mitochondrial endonuclease G mediates breakdown of paternal mitochondria upon fertilization. Science. 2016 Jul 22;353(6297):394-9.](https://pubmed.ncbi.nlm.nih.gov/27338704/)  
 * [Zhao P, Zhang Z, Lv X, Zhao X, <b><u>Suehiro Y</u></b>, Jiang Y, Wang X, Mitani S, Gong H, Xue D. One-step homozygosity in precise gene editing by an improved CRISPR/Cas9 system. Cell Res. 2016 May;26(5):633-6.](https://pubmed.ncbi.nlm.nih.gov/27055372/)
 
-### 2. Variant detection from whole genome sequence
+### 2. Original variant detection program and bioinformatics tools
 
 
 #### Citation:
@@ -29,5 +29,9 @@ Information about the machine on which the analysis was performed, how the envir
 Details of the codes to run the analysis are described in [this page](https://github.com/YujiSue/Research/tree/main/CustomChIP).
 
 #### Codes
-* [chip_analyze.cpp]() (Written in C++)
+* [chip_analyze.cpp](https://github.com/YujiSue/Research/blob/main/CustomChIP/chip_analyze.cpp) (Written in C++)
 * [chip_analyze.ipynb](https://github.com/YujiSue/Research/blob/main/CustomChIP/chip_analyze.ipynb) (Google Colab notebook)
+
+
+
+
