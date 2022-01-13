@@ -3,7 +3,7 @@
 ![Workflow](https://github.com/YujiSue/Research/raw/main/CustomChIP/workflow.png)
 
 ## Codes
-* chip_analyze.ipynb ... Google colab. notebook.
+* [chip_analyze.ipynb](https://github.com/YujiSue/Research/blob/main/CustomChIP/chip_analyze.ipynb) ... Google colab. notebook.
 
 ## How to use
 * chip_analyze.ipynb :  
