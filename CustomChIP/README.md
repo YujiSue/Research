@@ -16,15 +16,10 @@
 1. Install libsobj and libsbioinfo according to the guidance of [slib]() repositories.
 2. Download and compile the file (.cpp).
 Compile command example:  
-For linux (* require gcc)  
+For UNIX/Linux (require gcc) or Mac(require clang bundled with Xcode)   
 ```
-$ g++ -std=c++11 -I -L -O2 -o chip_analyze {donwload directory}/chip_analyze.cpp -lsobj -lsbioinfo -lcurl
+$ g++ -std=c++11 -I{include path of slib : e.g. /usr/local/include/slib} -L{library ptah of slib : e.g. /usr/local/lib} -O2 -o chip_analyze {donwload directory}/chip_analyze.cpp -lsobj -lsbioinfo -lcurl
 ```  
-  
-For mac (* require clang bundled with Xcode)  
-```
-$ g++ -std=c++11 -I -L -O2 -o chip_analyze {donwload directory}/chip_analyze.cpp -lsobj -lsbioinfo -lcurl
-```
   
 For windows (* require build toolkits and terminal for developpers bundled with VisualStudio)  
 ```
