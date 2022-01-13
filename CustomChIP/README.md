@@ -1,5 +1,6 @@
 # Codes used in the research (unpublished)
 ## Overview
+![Workflow](https://github.com/YujiSue/Research/raw/main/CustomChIP/workflow.png)
 
 ## Codes
 * chip_analyze.ipynb ... Google colab. notebook.
