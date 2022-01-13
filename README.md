@@ -1,4 +1,5 @@
-# Codes for research use ([Japanese]())
+# Codes for research use
+Click [here]() for the Japanese version.
 ## For NGS Data analysis
 ### 1. General Analysis
 Pipeline scripts to analyze are available from each link.
