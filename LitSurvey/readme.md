@@ -4,7 +4,6 @@ To survey the scientific articles using <I>C. elegans</I> mutants distributed by
 # Codes
 - PubMedSearch.py
 - TextMining.py
-- ArticleAbstractProcess.py
 
 # Citation
 Manuscript in preparation.
