@@ -7,4 +7,4 @@ To survey the scientific articles using <I>C. elegans</I> mutants distributed by
 - ArticleAbstractProcess.py
 
 # Citation
-Unpublished.
+Manuscript in preparation.
