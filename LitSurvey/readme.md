@@ -1,5 +1,5 @@
 # Purpose
-To perform literature survey the scientific articles using <I>C. elegans</I> mutants distributed by [NBRP C. elegans](https://shigen.nig.ac.jp/c.elegans/top.xhtml).
+To perform literature survey the scientific articles related to some specific topics.
 
 # Codes
 ## PubMedSearch.py
