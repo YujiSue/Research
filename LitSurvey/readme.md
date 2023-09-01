@@ -1,5 +1,5 @@
-# About
-We have identified more than 10,000 mutants and distributed 
+# Purpose
+To survey the scientific articles using <I>C. elegans</I> mutants distributed by NBRP.
 
 # Codes
 - PubMedSearch.py
