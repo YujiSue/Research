@@ -3,8 +3,6 @@
 # Statistical test and chart by R
 R codes for test were on Google colab's notebook "dnarepair.ipynb".
 
-# Figures 
-
 # Codes for this research
 
 
