@@ -150,6 +150,7 @@ int main(int argc, const char** argv) {
 				else if (E_->type == SNV || E_->type == MNV || E_->type == INSERTION) output << E_->alt.length() << TAB;
 				else output << "0" << TAB;
 				output << E_->alt << TAB;
+				output << slib::toString(sbiutil::varTypes(E_->type), "+") << TAB;
 				output << (E_->homo ? "Homo" : "Hetero") << TAB;
 				if (!E_->genes.empty()) {
 					stringarray gnames;
