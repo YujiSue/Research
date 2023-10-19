@@ -13,10 +13,12 @@ ex. nematode eggs on a dish
 => Researchers want to efficiently detect targets from as few images as possible!
 
 ### What this code does
-
+- Training pairs of images and masked binary images that indicate the target objects.  
 ![](./img/make_mask.png)
-
-
+  
+- The training images are padded by changing contrast, gamma correction, rotation, and flipping.
+  
+- 
 
 ## Usage
 1. Open the [notebook]() on Google Colab. 
