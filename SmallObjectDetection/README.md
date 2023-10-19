@@ -15,13 +15,15 @@ ex. nematode eggs on a dish
 
 
 
+
+
 ## Usage
 1. Open the [notebook]() on Google Colab. 
 
-* IF you want to test a sample image using our trained model  
+* IF you want to test a sample image using my trained model  
 2-1. 
 
-* IF you want to train your original data  
+* IF you want to train your original data and use the learned model for further test  
 2-2. 
 
 
