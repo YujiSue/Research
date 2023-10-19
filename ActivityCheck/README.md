@@ -1,4 +1,4 @@
-# ImageJ plugin to judge animal activity
+# ImageJ plugin for assessing animal activity
 
 ## Introduction
 ### What's problem
