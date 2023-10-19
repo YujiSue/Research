@@ -9,12 +9,15 @@
 > But... it is difficult to check with human eyes
 
 ### How to resolve
-- Get low-resolution time-lapse images for each animal.
-- Binarizes the difference between images during a certain time period (~1 sec).
-- Make an overlay of the generated images during a certain period of time (~10 sec).
+- Get low-resolution time-lapse images for each animal.  
+ Binarizes the difference between images during a certain time period (~1 sec).  
+ Make an overlay of the generated images during a certain period of time (~10 sec).
+  
 ![](./img/img_diff.png)
 
+  
 - Check the activity based on the area of pixels, whose values are 0 or 255.
+  
 ![](./img/activity_check.png)
 
 ## Usage
