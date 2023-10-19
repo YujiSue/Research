@@ -3,7 +3,7 @@
 ## Introduction
 ### What's problem
 - It is difficult to confirm the death of animlas withou hearts such as invertebrates and microorganisms.  
-> For example, in some cases, even if they appear to be dead, they can suddenly revive when subjected to mechanical stimuli.  
+> For example, in some cases, even if they appear to be dead, they can suddenly revive when subjected to stimuli.  
 
 - In the case of nematodes, if there is no activity after repeated observation over a period of time, it is considered dead.  
 > But... it is difficult to check with human eyes
