@@ -1,3 +1,3 @@
-# ImageJ plugins to judge animal activity
+# ImageJ plugin to judge animal activity
 
 
