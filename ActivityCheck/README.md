@@ -17,7 +17,7 @@
 ![](./img/img_diff.png)
   
 - The area of the pixels, whose values are 1 (255), in the overlay image are measured.  
-Setting the threshold will output whether animals in a particular ROI are active or not.   
+Setting the threshold will output whether the animal(s) in a particular ROI is(are) active or not.   
   
 ![](./img/activity_check.png)
 
