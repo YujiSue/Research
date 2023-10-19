@@ -3,8 +3,9 @@
 ## Introduction
 ### Purpose
 - Detect and count objects that are small enough compared to the image size  
-ex. nematode eggs on a dish
-![]()
+ex. nematode eggs on a dish  
+
+![](./img/eggs.jpg)
 
 ### What's problem
 - Signs of movement and/or life activity of animals interfere with analysis.  
@@ -13,7 +14,7 @@ ex. nematode eggs on a dish
 
 ### What this code does
 
-
+![](./img/make_mask.png)
 
 
 
