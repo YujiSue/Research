@@ -7,19 +7,22 @@ ex. nematode eggs on a dish
 ![]()
 
 ### What's problem
-- Signs of movement and/or life activity of animals are reflected in the images.  
-- A large number of images must be analyzed when a microscope is used to take images with a magnification high enough to easily detect small objects.
-=> Want to detect targets efficiently from as few images as possible!
+- Signs of movement and/or life activity of animals interfere with analysis.  
+- When using highly magnified images that are sufficient to easily detect small objects, a large data set must be analyzed.
+=> Researchers want to efficiently detect targets from as few images as possible!
 
-### 
+### What this code does
 
 
 
 ## Usage
-### 1. Open the [notebook] on Google Colab. 
+1. Open the [notebook]() on Google Colab. 
 
-### 2. 
+* IF you want to test a sample image using our trained model  
+2-1. 
 
+* IF you want to train your original data  
+2-2. 
 
 
 ## Citation
