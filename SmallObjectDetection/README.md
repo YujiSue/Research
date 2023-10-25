@@ -25,7 +25,7 @@ ex. nematode eggs on a dish
 * #### Test image is also split and objects are predicted
 ![](./img/unet_predict.png)
 
-* #### Reconstruct the predicted mask images to the size of the original image and count by OpenCV
+* #### Reconstruct the original size predicted mask images and count objects by OpenCV
 * #### Overlay on the test image
 ![](./img/count.png)
 
