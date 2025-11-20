@@ -1,7 +1,7 @@
 # Small object detection using UNET image segmentation
 
 
-<a href="https://colab.research.google.com/github/googlecolab/colabtools/blob/main/SmallObjectDetection/DetecionAI.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/github/YujiSue/Research/blob/main/SmallObjectDetection/DetecionAI.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ## Introduction
 ### Purpose
