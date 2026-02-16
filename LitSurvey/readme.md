@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # About
 This repository contains the data and Google Colab/Jupyter Notebook utilized in a review of the activities and achievements of the Japanese _C. elegans_ bioresource center.
 
@@ -26,3 +27,6 @@ This notebook includes sample scripts for storing PubMed search results and text
 
 # Citation
 Under submission
+=======
+
+>>>>>>> df154df060f57c4a0be4cc0b22d305c234be031a
